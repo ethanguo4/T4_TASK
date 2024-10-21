@@ -1,6 +1,10 @@
-## IDENTIFYING
+# IDENTIFYING
 
-***Identifying a Need:*** The problem that my game will address is the social norms of today's society, and how moral and ethical dilemmas have become blurred and warped in modern day society. The gameplay has the main idea that the player will go through various different scenarios, each faced with a dilemma, as they try to answer with their own philosophies and morals.
+## **Identifying a Need:** 
+
+The problem that my game will address is the social norms of today's society, and how moral and ethical dilemmas have become blurred and warped in modern day society. The gameplay has the main idea that the player will go through various different scenarios, each faced with a dilemma, as they try to answer with their own philosophies and morals.   
+
+**PROBLEM STATEMENT:** Player will learn about the issues within society, and how it may affect their decisions and impact on morals. 
 
 **INPUTS:** Keyboard
 
@@ -36,6 +40,18 @@ The game will save progress via JSON files, locally.
 ## NON FUNCTIONAL REQUIREMENTS
 
 **PERFORMANCE REQUIREMENTS:**
+
+The game should be able to load within a couple seconds, and the user inputs should be exact and precise
+
+**USABILITY REQUIREMENTS:**
+
+The game will have a beginner level where the player will go through all the core mechanics and have a taste at the gameplay style that they will experience.
+
+**COMPATABILITY REQUIREMENTS:**
+
+
+
+
 
 
 
