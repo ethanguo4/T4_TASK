@@ -39,7 +39,7 @@ The game will save progress via JSON files, locally.
 
 ## NON FUNCTIONAL REQUIREMENTS
 
-**PERFORMANCE REQUIREMENTS:**
+**PERFORMANCE REQUIREMENTS:** 
 
 The game should be able to load within a couple seconds, and the user inputs should be exact and precise
 
