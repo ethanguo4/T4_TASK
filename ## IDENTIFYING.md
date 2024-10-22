@@ -49,6 +49,11 @@ The game will have a beginner level where the player will go through all the cor
 
 **COMPATABILITY REQUIREMENTS:**
 
+The device should be able to run unity hub, which is all that it should need to be able to run the game.
+
+**SCALABILITY REQUIREMENTS**
+
+The 
 
 
 
