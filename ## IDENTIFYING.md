@@ -18,7 +18,7 @@ The problem that my game will address is the social norms of today's society, an
 
 
 
-## FUNCTIONAL REQUIREMENTS
+# FUNCTIONAL REQUIREMENTS
 
 **USER INTERACTION:** 
 
@@ -37,7 +37,7 @@ The game will simply display stats when the player reaches the end of the game.
 The game will save progress via JSON files, locally.
 
 
-## NON FUNCTIONAL REQUIREMENTS
+# NON FUNCTIONAL REQUIREMENTS
 
 **PERFORMANCE REQUIREMENTS:** 
 
@@ -53,7 +53,35 @@ The device should be able to run unity hub, which is all that it should need to 
 
 **SCALABILITY REQUIREMENTS**
 
-The 
+The game should be able to handle several levels without having any issues with performance or lag.
+
+**SECURITY REQUIREMENTS**
+
+All data from the players should be saved locally, due it being a offline game, the game shouldn't require any important info from the player.
+
+**RELIABILITY AND AVAILABILITY**
+
+The game should be available for access to anyone due to the fact that is does not have any network requirements, seeing how it is an offline game, and that it should save progress with each checkpoint or level.
+
+# CONSIDERATION OF SOCIAL AND ETHICAL ISSUES
+
+## Defining
+- **Equity**
+
+The quality of being fair and impartial. (taken from google)
+- **Accessibility**
+
+The quality of being easy to obtain or use. (also taken from google)
+
+**ACCESSIBILITY**
+
+My project should be able to be used by most people, however to people that may have a disability issue the game my pose a issue, to the people with impaired vision. This will be solved via methods such as subtitles, bigger objects in the game, and nothing too minimalised to the point that people will start to have problems with seeing the game.
+
+**PRIVACY AND DATA PROTECTION**
+
+
+
+
 
 
 
