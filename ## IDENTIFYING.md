@@ -79,6 +79,22 @@ My project should be able to be used by most people, however to people that may 
 
 **PRIVACY AND DATA PROTECTION**
 
+The game will store player info and data, shown in high scores and other achievements that the player will make through their playthrough of the game.
+
+**FAIRNESS AND REPRESENTATION**
+
+The game won't have any sterotypes, and will based on a simlistic characterrsr with no racial intent or ill thought. The main idea is that the game will actually explore a bit of this topic, regarding hte problems of our ccurrent day society.
+
+**MENTAL AND EMOTIONAL WELL-BEING**
+
+The game shouldn't trigger any mental health issues, but rather attempt to promote more thinking and consideration, avoiding content that might be too distressing and keeping things at a controlled level.
+
+**CULTURAL SENSITIVITES**
+
+The game content won't have any sterotypes, as it is only meant to be a text based story game, with puzzles, and interactions, meaning there wouldn't be a need for overly sterotypical characters.
+
+
+
 
 
 
