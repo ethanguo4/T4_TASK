@@ -99,6 +99,34 @@ The game content won't have any sterotypes, as it is only meant to be a text bas
 | Fallout 4 ![fallout4](/images/fallout4.jpeg)|Fallout is also a dystopian(?) post-apocolyptic game where the player gets thrust into unforgiving lands, forcing them to make moral or ethical decisions in order to survive, which has a final impact on the ending of the game, based on the immoral or moral decisions that you have made.|One idea I don't quite like about Fallout is the way that the immorality system works, making specific locations unreachable, or the story being altered due to the "karma" levels.| I can utilise the karma system in Fallout into my own game, but to a more lesser extent, to the point that it doesn't affect the core story of the game, but rather small events such as worse luck or more hostility, to make the player feel more pressured to make moral or immoral decisions.             |
 | Undertale ![undetale](/images/undertale.png)|Undertale is a top down game, where the player falls into a "underground" world, having many options such as pacifist runs, or genocide runs to try and either stay in the world, or leave it through peace or violence, causing hte player to have to make many moral or immoral decision, weighing heavily on the final outcome of the game.|A negative part about Undertale is the overwhelmingly long amount of time that the player has to go through, and one mistake with progressing through the story may require the player to backtrack on nearly several hours of work.|I can take the way that Undertale is far too long to make my game shorter, not punsihing the player as heavily if they make a mistake and go the wrong way.             |
 
+# PSEUDOCODE and FLOWCHARTS
+
+##Pseudocodes.
+
+**Basic movement of WASD and E key for interactions
+While game is running
+    Check for user input
+    Store user input in variable
+
+While game is running
+ 
+Check for user input 
+
+Store user input in variable 
+
+   If user input is "W" Move player up by movement speed
+
+   Else if user input is "A" Move player left by movement speed 
+
+   Else if user input is "S" Move player down by movement speed
+
+   Else if user input is "D" Move player right by movement speed 
+
+If user input is "E" Interact with object at player position 
+
+  Update the game state 
+
+  Render the game with player position
 
 
 
