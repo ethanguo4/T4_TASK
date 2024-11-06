@@ -128,6 +128,8 @@ If user input is "E" Interact with object at player position
 
   Render the game with player position
 
+  
+
 
 
 
