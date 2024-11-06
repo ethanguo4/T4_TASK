@@ -101,9 +101,9 @@ The game content won't have any sterotypes, as it is only meant to be a text bas
 
 # PSEUDOCODE and FLOWCHARTS
 
-##Pseudocodes.
+## Pseudocodes.
 
-**Basic movement of WASD and E key for interactions
+**Basic movement of WASD and E key for interactions**
 While game is running
     Check for user input
     Store user input in variable
@@ -128,7 +128,48 @@ If user input is "E" Interact with object at player position
 
   Render the game with player position
 
-  
+**Save and Load files (save)**
+Function SaveFile (FileName, Content)
+
+   Open file with name FileName in write mode 
+
+   If file is opened successfully  
+
+     Write Content into the file 
+
+     Close the file 
+
+Else 
+
+    Print "Error opening file" 
+
+  End If 
+
+End Function
+
+**Save and Load files (load)**
+Function LoadFile(FileName)
+
+    Open file with name FileName in read mode
+
+    If file is opened successfully
+
+        Read the content of the file into a variable
+
+        Close the file
+
+        Return the content
+
+    Else
+
+        Print "Error opening file"
+
+        Return an empty value or error message
+
+    End If
+
+End Function
+
 
 
 
