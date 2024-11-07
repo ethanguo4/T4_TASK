@@ -128,49 +128,54 @@ If user input is "E" Interact with object at player position
 
   Render the game with player position
 
+  ## **FLOWCHART!** ![movement](/images/movement.png)
+
 **Save and Load files (save)**
 Function SaveFile (FileName, Content)
 
-   Open file with name FileName in write mode 
+Open file with name FileName in write mode 
 
-   If file is opened successfully  
+If file is opened successfully  
 
-     Write Content into the file 
+Write Content into the file 
 
-     Close the file 
+Close the file 
 
 Else 
 
-    Print "Error opening file" 
+Print "Error opening file" 
 
-  End If 
+End If 
 
 End Function
+
+## **FLOWCHART!** ![save](/images/save.png)
 
 **Save and Load files (load)**
 Function LoadFile(FileName)
 
-    Open file with name FileName in read mode
+Open file with name FileName in read mode
 
-    If file is opened successfully
+If file is opened successfully
 
-        Read the content of the file into a variable
+Read the content of the file into a variable
 
-        Close the file
+Close the file
 
-        Return the content
+Return the content
 
-    Else
+Else
 
-        Print "Error opening file"
+Print "Error opening file"
 
-        Return an empty value or error message
+Return an empty value or error message
 
-    End If
+End If
 
 End Function
 
-test
+## **FLOWHCART!** ![load](/images/load.png)
+
 
 
 
