@@ -176,6 +176,22 @@ End Function
 
 ## **FLOWHCART!** ![load](/images/load.png)
 
+# **STORYBOARDS**
+
+ ## **STORYBOARD FOR WHOLE GAME**
+ ![whole_game](/images/whole_game.png)
+
+ ## **STORYBOARD FOR INSTRUCTIONS**
+ ![basic_guide](/images/basic_guide.png)
+
+ ## **STORYBOARD FOR GAME VISUALS**
+ ![game_visual](/images/game_visual.png)
+
+ ## **STORYBOARD FOR SETTINGS**
+ ![settings_screen](/images/settings_screen.png)
+
+ 
+
 
 
 
