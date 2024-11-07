@@ -190,6 +190,8 @@ End Function
  ## **STORYBOARD FOR SETTINGS**
  ![settings_screen](/images/settings_screen.png)
 
+ # **GANTT CHART**
+ ![Gantt_Chart](/images/Gantt_Chart.png)
  
 
 
